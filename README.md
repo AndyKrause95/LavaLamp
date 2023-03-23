@@ -1,5 +1,8 @@
 # Lavalamp
 
+Simple LavaLamp effect in JavaScript using Canvas.
+
+
 ## Logic:
 - bottom is heat-source
 - bubbles have buoyancy
